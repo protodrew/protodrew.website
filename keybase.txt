@@ -1,36 +1,32 @@
-protodrew_
-Protodrew
-(they/them) Ecosocialist Software Designer IMGD / CS Student @WPI
-Worcester Polytechnic Institute
 ==================================================================
-https://keybase.io/protodrew_
+https://keybase.io/proto_drew
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://protodrew.website
-  * I am protodrew_ (https://keybase.io/protodrew_) on keybase.
-  * I have a public key ASB45puFO1xyu6O0qfoTm3eAxfbvnwkOMnwlDDdnLiTkIwo
+  * I am proto_drew (https://keybase.io/proto_drew) on keybase.
+  * I have a public key ASBVtJfXXfS5Dlefs3G7_3b1GJi7o-npa1fm3q7OSWRJRQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "012078e69b853b5c72bba3b4a9fa139b7780c5f6ef9f090e327c250c37672e24e4230a",
+      "eldest_kid": "012055b497d75df4b90e579fb371bbff76f51898bba3e9e96b57e6deaece496449450a",
       "host": "keybase.io",
-      "kid": "012078e69b853b5c72bba3b4a9fa139b7780c5f6ef9f090e327c250c37672e24e4230a",
-      "uid": "a278314efd9707c25e1776a18b606b19",
-      "username": "protodrew_"
+      "kid": "012055b497d75df4b90e579fb371bbff76f51898bba3e9e96b57e6deaece496449450a",
+      "uid": "84dbaffd517ac34f8e3fdd3a23af2b19",
+      "username": "proto_drew"
     },
     "merkle_root": {
-      "ctime": 1601675701,
-      "hash": "9bc68b20637b3f5e296b75d16ea002288a029506ab9b396dce06153a80ab202de368be32063ec32618da3330d251bc153f0126e2e2a94922caa5c912b60da7c7",
-      "hash_meta": "515114a535625cadaed2927b621496f86a34fd767b5056c82a606757d00375ee",
-      "seqno": 17732727
+      "ctime": 1611946885,
+      "hash": "f9eb25787c036096745ee0ae4c096046001fc1b1eb348eeaee250f0b97829e34f253d48b27a545a4b6c1cccada439d37a7ae9086a586ed645b350548c0faad06",
+      "hash_meta": "7e4a9c362b442ea4aaae3e078e5fc2e074f7db81a9e9b4063b638f4f09348d7f",
+      "seqno": 18949632
     },
     "service": {
-      "entropy": "JCNCiyV/DAq8Wo2jlQkFh3fa",
+      "entropy": "k+CHmnt4ETamT0sGLAmpZRAD",
       "hostname": "protodrew.website",
       "protocol": "https:"
     },
@@ -39,22 +35,22 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.5.1"
+    "version": "5.6.1"
   },
-  "ctime": 1601675745,
+  "ctime": 1611946915,
   "expire_in": 504576000,
-  "prev": "083f3d0ae6cac27ea4889bf0df4a5b1ecfeceb3fad49adc2fd43da428dcd172f",
-  "seqno": 9,
+  "prev": "3f1d05e8645df1e44ef655115c9a4593de4486e385cd8d3f0410c0081d0ac943",
+  "seqno": 8,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeOabhTtccrujtKn6E5t3gMX2758JDjJ8JQw3Zy4k5CMKp3BheWxvYWTESpcCCcQgCD89CubKwn6kiJvw30pbHs/s6z+tSa3C/UPaQo3NFy/EIPskgj1b0B2vYE2SkEXJ7FCdUWZ2ovf5jYseMAd3KNQvAgHCo3NpZ8RA8c/8kd2YVADmaipCkpzSLvObDlqVueMNan2xG9I8vxCfWCZGVWrbrq5grnvvK1FK+IjgaywusIbsRtHB3E+0AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBCPtnvOxMAB/fg3w1GaZ5hmD5l03uNJoEJqkDJnj5JMo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVbSX1130uQ5Xn7Nxu/929RiYu6Pp6WtX5t6uzklkSUUKp3BheWxvYWTESpcCCMQgPx0F6GRd8eRO9lURXJpFk95EhuOFzY0/BBDACB0KyUPEIJDi1CsJ2mVb14RTLO1QIH4iVvjiuartRWpjdOTR015XAgHCo3NpZ8RAaAKyNexQ0Fbw6iudurDJdLsubV/DMJziaDZYW2RZ1dgT8N1R6bPXUYNFPBnF41YrQyundtmcwLn/g7XhWOVVAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAPgHA503ronBznhTS8yWH8OhnSmDngG3lj4r7UwR972o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/protodrew_
+View my publicly-auditable identity here: https://keybase.io/proto_drew
 
 ==================================================================
