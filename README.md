@@ -32,7 +32,7 @@ Don't submit a pull request or put any issues on this page, this is my personal 
 
 ## License
 
-### GNU General Public License v3 (GPL-3)
+## MIT License
 
 see [License.md](License.md) for more information.
 
